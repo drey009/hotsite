@@ -1,0 +1,4 @@
+# hotsite
+tentando fazer um hotsite test1
+#EDIT 2023:
+AQUI FOI ONDE EU APRENDI COMO AS CORES INTERFEREM NOS SITES.
